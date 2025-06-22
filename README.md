@@ -1,1 +1,1 @@
-# vanilla-singpe-web-app
+# vanilla-simple-web-app
